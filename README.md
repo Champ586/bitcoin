@@ -8,10 +8,6 @@ And then run it with
 `java -jar target/bitcoin-0.0.1-SNAPSHOT.jar`
 
 
-If something went wrong, I have added compiled jar to git\
-You can run it with 
-`java -jar jar/bitcoin-0.0.1-SNAPSHOT.jar`
-
 You will need Java 11\
 Application is running on port 8080
 
